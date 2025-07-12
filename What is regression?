@@ -1,0 +1,23 @@
+Regression is a statistical method used to model and analyze the relationship between a dependent variable (often called the target or outcome variable) and one or more independent variables (also known as predictors or features). The primary purpose of regression is to predict the value of the dependent variable based on the values of the independent variables.
+
+### Key Points about Regression:
+
+1. Types of Regression:
+   - Simple Regression: Involves a single independent variable predicting a dependent variable. For example, predicting a person's weight based on their height.
+   - Multiple Regression: Involves two or more independent variables predicting a dependent variable. For example, predicting house prices based on size, location, and the number of bedrooms.
+
+2. Types of Relationships:
+   - Linear Regression: Assumes a straight-line relationship between the independent and dependent variables.
+   - Nonlinear Regression: Models relationships that are not linear, allowing for curves or more complex patterns.
+
+3. Purpose: 
+   - To understand the strength and nature of relationships between variables.
+   - To make predictions about future outcomes based on historical data.
+
+4. Applications: 
+   - Used across various fields including finance (e.g., predicting stock prices), healthcare (e.g., estimating disease risk), marketing (e.g., forecasting sales), and more.
+
+5. Model Evaluation: 
+   - Common metrics to evaluate regression models include R-squared, Mean Squared Error (MSE), and Root Mean Squared Error (RMSE), which help assess how well the model fits the data.
+
+In summary, regression is a fundamental statistical tool that helps in understanding relationships and making predictions based on data.
